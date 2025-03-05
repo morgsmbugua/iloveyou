@@ -1,0 +1,32 @@
+body {
+    background-color: purple;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    color: aliceblue;
+}
+img {
+    width: 520px;
+}
+.blow {
+    width: 200px;
+    position: absolute;
+    left: 380px;
+    top: 250px;
+}
+.bunny {
+    position: absolute;
+    width: 300px;
+    top: 200px;
+    left: 950px;
+}
+.stamp {
+    position: absolute;
+    top: 450px;
+    left: 680px;
+    width: 200px;
+}
+.wanted {
+    box-shadow: black 5px 5px 5px;
+}

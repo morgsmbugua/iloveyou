@@ -1,0 +1,191 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(255, 246, 232);
+}
+.navbar {
+    background-color: none;
+}
+.wifi {
+    width: 50px;
+}
+.biglove {
+    width: 40px;
+}
+.header {
+    background-color: none;
+}
+.fav {
+    width: 300px;
+    margin-top: 40px;
+    box-shadow: rgb(52, 52, 255) 5px 5px 5px;
+}
+.mylove {
+    width: 100px;
+    position: absolute;
+    left: 760px;
+    top: 15px;
+}
+.favst {
+    width: 100px;
+    position: absolute;
+    left: 750px;
+    top: 150px;
+}
+.hotstuff {
+    position: absolute;
+    width: 100px;
+    left: 520px;
+}
+.eleven {
+    position: absolute;
+    width: 100px;
+    left: 800px;
+    top: 400px;
+}
+.truelove {
+    position: absolute;
+    left: 590px;
+    top: 340px;
+    width: 120px;
+}
+.chikwere {
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.loud {
+    width: 120px;
+    position: absolute;
+    left: 900px;
+}
+.reasons {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    margin-top: 40px;
+}
+.casebox {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50vw;
+}
+.case {
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    box-shadow: rgb(255, 92, 92) 1px 1px 5px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.flower {
+    width: 30px;
+}
+.dets {
+    vertical-align: middle;
+    align-content: center;
+}
+.cats {
+    position: absolute;
+    left: 300px;
+    width: 200px;
+}
+.hands {
+    position: absolute;
+    width: 200px;
+    right: 200px;
+    top: 900px;
+}
+.love-heart {
+    position: absolute;
+    width: 100px;
+    top: 940px;
+}
+.letter {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.letterbox {
+    width: 30%;
+    display: flex;
+    box-shadow: rgb(255, 0, 0) 1px 1px 3px;
+    padding: 20px 50px;
+    background-color: rgb(255, 255, 255);
+}
+.kissme {
+    position: absolute;
+    left: 800px;
+    top: 1350px;
+    width: 100px;
+}
+.ily {
+    position: absolute;
+    left: 850px;
+    top: 1800px;
+    width: 200px;
+}
+.always {
+    position: absolute;
+    left: 980px;
+    top: 1910px;
+    width: 60px;
+}
+.angellove {
+    position: absolute;
+    left: 490px;
+    width: 150px;
+}
+.sundress {
+    box-shadow: rgb(255, 137, 235) 5px 5px 5px;
+}
+.perfect {
+    position: absolute;
+    width: 400px;
+    left: 300px;
+    top: 2900px;
+}
+.loafya {
+    position: absolute;
+    width: 150px;
+    left: 1000px;
+}
+.stoploving {
+    position: absolute;
+    width: 150px;
+    left: 340px;
+    top: 3380px;
+}
+.girllove {
+    position: absolute;
+    width: 140px;
+    left: 700px;
+    top: 3200px;
+}
+.citylights {
+    position: absolute;
+    width: 300px;
+    left: 1070px;
+    top: 3280px;
+}
+.kissheart {
+    width: 200px;
+}
+.letterdets {
+    font-family: brush script mt;
+    font-size: 23px;
+}
+.shanje {
+    box-shadow: rgb(0, 0, 0) 5px 5px 5px;
+}
